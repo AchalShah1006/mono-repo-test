@@ -1,5 +1,5 @@
 {
-  "name": "homepage",
+  "name": "@mono-repo/homepage",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -30,7 +30,7 @@
     "path": "^0.12.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@test/mono-repo/utils": "0.0.1",
+    "@mono-repo/utils": "0.0.1",
     "vite-plugin-dts": "^3.9.1"
   },
   "devDependencies": {

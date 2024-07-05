@@ -1,5 +1,5 @@
 {
-  "name": "@test/mono-repo",
+  "name": "mono-repo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
