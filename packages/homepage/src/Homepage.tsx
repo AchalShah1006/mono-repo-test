@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { logMessage } from "utils";
+import { logMessage } from "@mono-repo/utils";
 
 export const Homepage = () => {
   const [first, setfirst] = useState(true);

@@ -15,6 +15,11 @@
       "require": "./dist/utils.umd.js"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AchalShah1006/mono-repo-test",
+    "directory": "packages/utils"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
